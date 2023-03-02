@@ -4,6 +4,7 @@
 	"description": "node.js tutorial lesson 2: add a description of your project",
 	"keywords": ["freecodecamp", "lesson", "3.2"],
 	"license": "BSD",
+	"version": "first version",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
